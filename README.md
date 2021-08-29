@@ -4,7 +4,8 @@
 </div>
 
 <h3>repository</h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sky81219&repo=CrawlingAnalysis)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/sky81219/CrawlingAnalysis)
+
 
 <!--
 **sky81219/sky81219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
