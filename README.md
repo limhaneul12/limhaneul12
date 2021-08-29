@@ -1,4 +1,4 @@
-![sky81219's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky81219&show_icons=true&count_private=true&theme=material-palenight)
+![sky81219's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky81219&show_icons=true&theme=material-palenight&hide=star)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=material-palenight)
 
 
