@@ -2,7 +2,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=synthwave)
 
 <h3>repository</h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sky81219&repo=CrawlingAnalysis)](https://github.com/sky81219/CrawlingAnalysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sky81219&repo=CrawlingAnalysis)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
