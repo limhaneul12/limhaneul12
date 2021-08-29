@@ -1,7 +1,10 @@
-![sky81219's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky81219&show_icons=true&line_height=24&theme=synthwave&hide=stars&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=synthwave)
+<div align="center">
+  ![sky81219's GitHub stats](https://github-readme-stats.vercel.app/api?  username=sky81219&show_icons=true&line_height=24&theme=synthwave&hide=stars&count_private=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=synthwave)
+</div>
 
-
+<h3>repository</h3>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sky81219&repo=CrawlingAnalysis)]
 
 <!--
 **sky81219/sky81219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
