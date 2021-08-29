@@ -12,4 +12,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sky81219&repo=ICBM&show_owner=true&theme=dracula)](https://github.com/sky81219/ICBM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sky81219&repo=aiker&show_owner=true&theme=dracula)](https://github.com/sky81219/aiker)
 
+<h3> skill </h3>
+
+<img src="https://img.shields.io/badge/python-#DF3A01?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3DDC84?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3DDC84?style=flat-square&logo=python&logoColor=white"/>
