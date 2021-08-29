@@ -1,7 +1,5 @@
-<div align="center">
-  ![sky81219's GitHub stats](https://github-readme-stats.vercel.app/api?  username=sky81219&show_icons=true&line_height=24&theme=synthwave&hide=stars&count_private=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=synthwave)
-</div>
+![sky81219's GitHub stats](https://github-readme-stats.vercel.app/api?  username=sky81219&show_icons=true&line_height=24&theme=synthwave&hide=stars&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=synthwave)
 
 <h3>repository</h3>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sky81219&repo=CrawlingAnalysis)](https://github.com/sky81219/CrawlingAnalysis)
