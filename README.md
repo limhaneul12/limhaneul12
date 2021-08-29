@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=sky81219m&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=material-palenight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky81219&show_icons=true&theme=radical)
+
 </div>
 
 
