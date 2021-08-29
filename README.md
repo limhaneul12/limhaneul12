@@ -15,5 +15,5 @@
 <h3> 📕 Skills </h3>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/scala-DC322F?style=flat-square&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/scala-DC322F?style=flat-square&logo=scala&logoColor=yellow"/>
 
