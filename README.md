@@ -1,8 +1,6 @@
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky81219&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=redical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky81219&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=redical)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>  
   
 <h3> gs </h3>
 
