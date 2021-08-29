@@ -1,6 +1,6 @@
 
 <h1> 📕 Skills (Framework or language)</h1>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/scala-DC322F?style=flat-square&logo=scala&logoColor=yellow"/> <img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=orange"/> <img src="https://img.shields.io/badge/spark-E25A1C?style=flat-square&logo=spark&logoColor=white"/>  
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=yellow"/><img src="https://img.shields.io/badge/scala-DC322F?style=flat-square&logo=scala&logoColor=black"/><img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=orange"/><img src="https://img.shields.io/badge/spark-E25A1C?style=flat-square&logo=spark&logoColor=white"/>  
 
 
 <h3>⚡ repository or 합작</h3>
