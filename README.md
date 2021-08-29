@@ -1,5 +1,5 @@
-![sky81219's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky81219&show_icons=true&line_height=30&theme=synthwave&hide=stars&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=synthwave&line_height=30)
+![sky81219's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky81219&show_icons=true&line_height=24&theme=synthwave&hide=stars&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=synthwave)
 
 
 
