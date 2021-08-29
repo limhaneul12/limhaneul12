@@ -1,9 +1,9 @@
-![sky81219's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky81219&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=redical)
+![sky81219's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky81219&show_icons=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=material-palenight)
 
 
 
-<h3> gs </h3>
+
 
 <!--
 **sky81219/sky81219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
