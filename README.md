@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20SKY&fontSize=90" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky81219&layout=compact&theme=vue" />
 </div>
 
 <div align="center">
