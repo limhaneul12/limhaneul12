@@ -34,6 +34,5 @@
   <img src="https://img.shields.io/badge/apache spark-E25A1C?style=flat-square&logo=apache spark&logoColor=white"/>
   <img src="https://img.shields.io/badge/apache kafka-231F20?style=flat-square&logo=apache kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/apache airflow-017CEE?style=flat-square&logo=apache airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/apache flink-E6526F?style=flat-square&logo=apache flink&logoColor=white"/>
 </div>
 
