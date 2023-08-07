@@ -12,8 +12,8 @@
 <div style="text-align:left">
   <h2> language </h2>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/scala-DC322F?style=flat-square&logo=scala&logoColor=black"/>
-  <img src="https://img.shields.io/badge/rust-DC322F?style=flat-square&logo=rust&logoColor=black"/> 
+<!--   <img src="https://img.shields.io/badge/scala-DC322F?style=flat-square&logo=scala&logoColor=black"/>
+  <img src="https://img.shields.io/badge/rust-DC322F?style=flat-square&logo=rust&logoColor=black"/>  -->
   </br>
 
   <h2> DB and Parsing library </h2>
