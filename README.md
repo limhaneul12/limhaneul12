@@ -19,7 +19,6 @@
   <h2> DB and Parsing library </h2>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=green"/>
   <img src="https://img.shields.io/badge/beautifulSoup-E25A1C?style=flat-square&logo=beautifulSoup&logoColor=white"/></br>
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   </br>
