@@ -30,8 +30,8 @@
 
   <h2> Backend and Data Distribute Framework </h2>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> 
-<!--   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></br>
-  <img src="https://img.shields.io/badge/apache spark-E25A1C?style=flat-square&logo=apache spark&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></br> -->
+  <img src="https://img.shields.io/badge/apache spark-E25A1C?style=flat-square&logo=apache spark&logoColor=white"/>
   <img src="https://img.shields.io/badge/apache kafka-231F20?style=flat-square&logo=apache kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/apache airflow-017CEE?style=flat-square&logo=apache airflow&logoColor=white"/>
 </div>
