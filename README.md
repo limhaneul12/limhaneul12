@@ -35,13 +35,7 @@
   <h5> 기초적인 수준 (Dag는 작성할 수 있으나 아키텍처의 깊은 이해가 부족해요) </h5>
   <img src="https://img.shields.io/badge/apache airflow-017CEE?style=for-the-badge&logo=apache airflow&logoColor=white"/>
 
-  <h5> 과거의 경험했던 기술(피싱사이드 분석 보고서, 악성코드 분석 보고서 를 작성해보았어요) </h5>
-
-  <h5>phishing site 분석 보고서</h5>
-  <div align="center">
-    <a href="https://docs.google.com/document/d/1cJfxaUEw8p27NDPg4dTeSIZKTsV3Ojze/edit" />악성코드 정적탐지 분석 보고서</a>
-  </div>
-  
+  <h5> 과거의 경험했던 기술(피싱사이드 분석 보고서, 악성코드 분석 보고서 를 작성해보았어요) </h5>  
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
