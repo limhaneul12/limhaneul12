@@ -19,7 +19,7 @@
   </br>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=green"/>
   <img src="https://img.shields.io/badge/beautifulSoup-E25A1C?style=for-the-badge&logo=beautifulSoup&logoColor=white"/>
-  <img src="https://img.shields.io/badge/apache fastapi-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
   </br>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
