@@ -18,22 +18,22 @@
   <img src="https://img.shields.io/badge/rust-DC322F?style=for-the-badge&logo=rust&logoColor=black"/>
   </br>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=green"/>
-  <img src="https://img.shields.io/badge/beautifulSoup-E25A1C?style=for-the-badge&logo=beautifulSoup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/beautifulsoup-E25A1C?style=for-the-badge&logo=beautifulsoup&logoColor=white"/>
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
   </br>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=Amazon s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=MinIO&logoColor=white"/>
 
   </br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/apache spark-E25A1C?style=for-the-badge&logo=apache spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/apache kafka-231F20?style=for-the-badge&logo=apache kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 
-  <h5> 기초적인 수준 (Dag는 작성할 수 있으나 아키텍처의 깊은 이해가 부족해요) </h5>
-  <img src="https://img.shields.io/badge/apache airflow-017CEE?style=for-the-badge&logo=apache airflow&logoColor=white"/>
+  <h5> (Dag는 작성할 수 있으나 아키텍처의 깊은 이해가 부족해요) </h5>
+  <img src="https://img.shields.io/badge/apache%20airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 
   <h5> 과거의 경험했던 기술(피싱사이드 분석 보고서, 악성코드 분석 보고서 를 작성해보았어요) </h5>  
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
